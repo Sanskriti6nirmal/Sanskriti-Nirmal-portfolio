@@ -156,8 +156,8 @@ export default function Home() {
           techstack: ["React", "Javascript(ES6)", "TailwindCSS", "HTML"],
           story:
             "A simple and interactive packing list app to help travelers organize what to pack. Add, manage, sort, and clear items with ease — perfect for planning your next adventure!",
-          link: "https://stargazer-puce.vercel.app",
-          repo: "https://github.com/phianova/stargazer",
+          link: "https://github.com/Sanskriti6nirmal/travell-list",
+          repo: "https://github.com/Sanskriti6nirmal/travell-list",
           id: "project3",
         },
       ]),
