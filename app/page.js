@@ -190,7 +190,7 @@ export default function Home() {
             "Javascript(es6)",
             "GitHub",
           ],
-          repo: "https://github.com/phianova/handpickedsarees",
+          repo: "https://github.com/Sanskriti6nirmal/News-Explorer-App",
         },
         {
           name: "Project management App",
@@ -294,7 +294,7 @@ export default function Home() {
               </div>
               <p className="py-5 sm:p-5 text-lg md:text-2xl">
                 <a
-                  href="./SanskritiNirmalCV.pdf"
+                  href="./Sanskriti_Nirmal_Resume.pdf"
                   target="_blank"
                   className="font-bold hover:text-white hover:bg-colour-text rounded-xl border-colour-text border-2 p-3"
                 >

@@ -72,7 +72,7 @@ const Footer = () => {
         <a
           id="navlink6"
           className="p-2 rounded-full hover:bg-colour-text border-2 border-colour-text hover:font-bold hover:text-white"
-          href="./SanskritiNirmalCV.pdf"
+          href="./Sanskriti_Nirmal_Resume.pdf"
           target="_blank"
         >
           CV
