@@ -686,8 +686,8 @@ export default function Home() {
           <br></br>
           <br></br>I’m always excited to learn new technologies and work on
           projects that make a positive impact. I’m currently open to
-          internships, internships, job opportunities, and exciting
-          collaborations — let’s build something amazing together!
+          internships,job opportunities, and exciting collaborations — let’s
+          build something amazing together!
         </motion.div>
         <motion.a
           initial={{ y: 0, z: 0 }}
