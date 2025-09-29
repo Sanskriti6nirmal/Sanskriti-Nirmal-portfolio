@@ -102,9 +102,9 @@ export default function Home() {
     () =>
       setProjects([
         {
-          name: "Pizza Order App",
+          name: "Hospital Management System",
           description:
-            "Pizza Order App by React .js ,hooks,state management,API integration",
+            "Hospital Management System , React.js , Next Js , Mongodb, Express , Node",
           mainimage: "/project1image.png",
           screenshot1: "/project1shot1.png",
           screenshot2: "/project1shot2.png",
@@ -115,16 +115,17 @@ export default function Home() {
             "Javascript",
             "TailwindCSS",
             "React Routers",
-            "React Hooks",
+            "MongoDB",
             "HTML",
-            "Vite",
+            "Node.Js",
             "Next.React Context API",
             "GitHub",
+            "Express.js",
           ],
           story:
-            "A fully responsive pizza ordering web application built with React and Vite. Users can browse a dynamic pizza menu, customize their orders, and manage a real-time cart with React Context API and Hooks. The app uses React Router for smooth navigation between pages like Menu and Cart. Designed with a clean and intuitive UI, this project showcases modern front-end development practices and provides a solid foundation for future full-stack integration.",
-          link: "https://pizza-order-app-iota.vercel.app/",
-          repo: "https://github.com/Sanskriti6nirmal/pizza-order-app",
+            "Developed a full-stack Hospital Management System using the MERN stack, enabling users to book appointments, select doctors, and manage healthcare interactions               Implemented secure authentication, dynamic dashboards, and real-time data handling for a seamless user experience",
+          link: "https://github.com/Sanskriti6nirmal/hospital-management-",
+          repo: "https://github.com/Sanskriti6nirmal/hospital-management-",
           id: "project1",
         },
         {
