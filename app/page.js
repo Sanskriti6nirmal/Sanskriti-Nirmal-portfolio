@@ -63,7 +63,7 @@ export default function Home() {
     "SCSS",
     "TailwindCSS",
     "Git & GitHub",
-    "Node.js Basics",
+    "Node.js ",
     "+ more!",
   ];
 
