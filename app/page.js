@@ -64,6 +64,8 @@ export default function Home() {
     "TailwindCSS",
     "Git & GitHub",
     "Node.js ",
+    "Express.js",
+    "MongoDB",
     "+ more!",
   ];
 
