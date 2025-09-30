@@ -75,7 +75,7 @@ const Footer = () => {
           href="./Sanskriti_Nirmal_Resume.pdf"
           target="_blank"
         >
-          CV
+          Resume
         </a>
       </div>
       <p className="py-5 my-3">© Sanskriti Nirmal</p>

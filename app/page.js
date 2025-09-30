@@ -284,7 +284,7 @@ export default function Home() {
                   </svg>
                 </a>
                 <span className="p-3"></span>
-                <a href="mailto:nirmalsanskruti6@@gmail.com" target="_blank">
+                <a href="mailto:nirmalsanskruti6@gmail.com" target="_blank">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     className="pointer-events-none h-7 w-7"
@@ -301,7 +301,7 @@ export default function Home() {
                   target="_blank"
                   className="font-bold hover:text-white hover:bg-colour-text rounded-xl border-colour-text border-2 p-3"
                 >
-                  Download CV
+                  Download Resume
                 </a>
               </p>
             </div>
