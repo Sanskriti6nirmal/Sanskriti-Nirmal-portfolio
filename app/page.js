@@ -397,8 +397,7 @@ export default function Home() {
             className="hidden flex flex-col items-center w-11/12 z-0"
           >
             <p className="px-5 py-3 text-lg">
-              6 months' experience building full-stack MERN & Next.js projects.
-            </p>
+Built responsive and scalable web applications using React.js and Next.js with modern UI practices, routing, and API integration.            </p>
           </div>
           {/* DSA */}
           <button
@@ -413,9 +412,7 @@ export default function Home() {
             className="hidden flex flex-col items-center w-11/12 z-0"
           >
             <p className="px-5 py-3 text-lg">
-              Medium-level understanding of Data Structures & Algorithms
-              including arrays, linked lists, stacks, queues, trees, and basic
-              graph concepts.
+              Strong understanding of DSA concepts including arrays, linked lists, trees, graphs, and problem-solving techniques..
             </p>
             <p className="px-5 py-3 text-lg">
               Comfortable applying DSA for problem solving and logic building in
@@ -436,8 +433,7 @@ export default function Home() {
             className="hidden flex flex-col items-center w-11/12 z-0"
           >
             <p className="px-5 py-3 text-lg">
-              Beginner-level experience building backends using Node.js.
-            </p>
+Developed backend applications using Node.js, handling server-side logic, authentication, and database operations.            </p>
           </div>
 
           {/* Express.js */}
@@ -453,9 +449,7 @@ export default function Home() {
             className="hidden flex flex-col items-center w-11/12 z-0"
           >
             <p className="px-5 py-3 text-lg">
-              Beginner-level experience creating RESTful APIs with Express.js.
-            </p>
-          </div>
+Built secure RESTful APIs with Express.js, implementing middleware, routing, validation, and error handling.  </p>  </div>
 
           {/* HTML/CSS & TailwindCSS */}
           <button
@@ -470,7 +464,7 @@ export default function Home() {
             className="hidden flex flex-col items-center w-11/12 z-0"
           >
             <p className="px-5 py-3 text-lg">
-              2 years experience creating responsive designs using modern HTML,
+              3 years experience creating responsive designs using modern HTML,
               CSS & TailwindCSS.
             </p>
           </div>
@@ -488,7 +482,7 @@ export default function Home() {
             className="hidden flex flex-col items-center w-11/12 z-0"
           >
             <p className="px-5 py-3 text-lg">
-              1 year experience writing clean, modern JavaScript for frontend.
+              3 year experience writing clean, modern JavaScript for frontend.
             </p>
           </div>
           {/* SQL */}
@@ -679,7 +673,7 @@ export default function Home() {
           transition={{ duration: 1 }}
           className="w-10/12 lg:w-8/12 xl:w-6/12 flex flex-col items-center p-8 my-2 sm:my-5 text-lg md:text-xl lg:text-2xl bg-gradient-to-r from-white/40 to-white/20 rounded-xl"
         >
-          I'm a passionate Front-End Developer who loves creating beautiful,
+          I'm a passionate Full Stack Developer who loves creating beautiful,
           responsive, and interactive websites. I enjoy combining clean design
           with smart functionality to deliver meaningful digital experiences.
           <br></br>
