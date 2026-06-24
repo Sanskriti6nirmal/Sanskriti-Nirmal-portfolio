@@ -66,6 +66,7 @@ export default function Home() {
     "Node.js ",
     "Express.js",
     "MongoDB",
+    "SQL",
     "+ more!",
   ];
 
@@ -85,6 +86,7 @@ export default function Home() {
     SQL: <FaDatabase />,
     PostgresSQL: <FaDatabase />,
     MongoDB: <FaDatabase />,
+    SQL: <FaDatabase />,
     Mongoose: <FaDatabase />,
     AWS: <FaAws />,
     Jest: <FaVial />,
